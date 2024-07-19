@@ -2,7 +2,7 @@
 
 #include <memory>
 
-#include "Core/Public/PlatformDetection.h"
+#include "Runtime/Core/Public/PlatformDetection.h"
 
 
 #ifdef DE_DEBUG

@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Core/Public/Base.h"
-#include "Core/Public/Log.h"
+#include "Runtime/Core/Public/Base.h"
+#include "Runtime/Core/Public/Log.h"
 #include <filesystem>
 
 #ifdef DE_ENABLE_ASSERTS

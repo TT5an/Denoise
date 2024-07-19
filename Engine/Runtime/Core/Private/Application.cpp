@@ -1,4 +1,4 @@
-#include "Core/Public/Application.h"
+#include "Runtime/Core/Public/Application.h"
 
 #include <thread>
 
@@ -23,8 +23,8 @@ namespace Denoise {
 	{
 		while (m_Running) {
 			DE_CORE_INFO("Running");
-
-			std::this_thread::sleep_for(std::chrono::milliseconds(1000));
+			Sleep(1000);
+			//std::this_thread::sleep_for(std::chrono::milliseconds(1000));
 		}
 	}
 }

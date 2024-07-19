@@ -15,5 +15,6 @@ option(GLFW_INSTALL OFF)
 
 add_subdirectory(Runtime)
 add_subdirectory(ThirdParty/glfw)
+add_subdirectory(Platform)
 
 target_link_libraries(DenoiseEngine PRIVATE glfw)

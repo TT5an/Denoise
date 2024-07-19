@@ -1,6 +1,6 @@
 #pragma once
-#include "Core/Public/Base.h"
-#include "Core/Public/Application.h"
+#include "Runtime/Core/Public/Base.h"
+#include "Runtime/Core/Public/Application.h"
 
 #ifdef DE_PLATFORM_WINDOWS
 

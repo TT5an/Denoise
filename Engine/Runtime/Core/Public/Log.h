@@ -1,7 +1,7 @@
 #pragma once
 
 #include "DEPCH.h"
-#include "Core/Public/Base.h"
+#include "Runtime/Core/Public/Base.h"
 
 #pragma warning(push, 0)
 #include <spdlog/spdlog.h>

@@ -17,7 +17,6 @@ set(DE_DEFINE_RES_ROOT_DIR "${CMAKE_SOURCE_DIR}/Resource/")
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
 
 include_directories(Engine)
-include_directories(Engine/Runtime)
 include_directories(Sandbox)
 
 # ThirdParty

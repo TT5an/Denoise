@@ -1,5 +1,5 @@
 #include "DEPCH.h"
-#include "Core/Public/Log.h"
+#include "Runtime/Core/Public/Log.h"
 
 #include <spdlog/sinks/stdout_color_sinks.h>
 #include <spdlog/sinks/basic_file_sink.h>
